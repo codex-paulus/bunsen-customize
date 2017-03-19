@@ -1,0 +1,8 @@
+{
+	"enable_telemetry": false,
+	"highlight_line": true,
+	"rulers": [100],
+	"word_wrap": true,
+	"ensure_newline_at_eof_on_save": true,
+	"trim_trailing_white_space_on_save": true
+}
