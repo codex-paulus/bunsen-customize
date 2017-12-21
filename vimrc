@@ -8,6 +8,9 @@ syntax on
 " Numbers on side
 set number
 
+" Highlight currentline
+" set cursorline
+
 " Show file position
 set ruler
 
@@ -15,7 +18,7 @@ set ruler
 " set colorcolumn=101
 
 " Use :colorscheme <tab> to filter through all installed
-colorscheme delek
+colorscheme darkblue
 
 """"""""""""""""""""""""
 " Search
@@ -36,8 +39,8 @@ set ignorecase
 set expandtab
  
 " << and >> shift 2 columns
-set shiftwidth=2
+set shiftwidth=4
 
 " Display tab as 2 spaces
-set tabstop=2
+set tabstop=4
 
