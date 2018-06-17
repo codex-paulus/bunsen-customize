@@ -1,5 +1,4 @@
 {
-	"enable_telemetry": false,
 	"highlight_line": true,
 	"rulers": [100],
 	"word_wrap": true,
