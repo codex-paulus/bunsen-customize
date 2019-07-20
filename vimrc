@@ -18,7 +18,7 @@ set ruler
 " set colorcolumn=101
 
 " Use :colorscheme <tab> to filter through all installed
-colorscheme darkblue
+colorscheme monokai
 
 """"""""""""""""""""""""
 " Search
@@ -38,9 +38,9 @@ set ignorecase
 " Use spaces rather than tabs
 set expandtab
  
-" << and >> shift 2 columns
+" << and >> shift 4 columns
 set shiftwidth=4
 
-" Display tab as 2 spaces
+" Display tab as 4 spaces
 set tabstop=4
 
